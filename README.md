@@ -16,7 +16,7 @@ A dual-project repository showcasing end-to-end data processing, exploratory dee
 
 ---
 
-## 📈 Project 2: Advanced Analytical Modeling
+## 📈 Project 2: Advanced Analytics
 **Objective:** Applying complex analytical techniques to uncover trends, segments, and performance drivers over time.
 
 ### 🛠️ Methodology & Features
