@@ -32,4 +32,4 @@ A dual-project repository showcasing end-to-end data processing, exploratory dee
 ## 🧰 Tech Stack & Tools
 *   **Languages:** SQL
 *   **Visualization:** Power BI
-*   **Tools:** Power Query/Pivot
+*   **Tools:** Power Query/Pivot, SSMS
